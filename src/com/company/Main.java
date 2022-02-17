@@ -9,5 +9,10 @@ public class Main {
         int c= a+b;
         System.out.println("c= "+c);
 
+        int x=10;
+        int y =5;
+        int z= x-y;
+        System.out.println("z= "+z);
+
     }
 }
