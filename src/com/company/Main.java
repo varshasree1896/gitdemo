@@ -13,6 +13,7 @@ public class Main {
         int y =5;
         int z= x-y;
         System.out.println("z= "+z);
+        System.out.println("m= "+(x*y));
 
     }
 }
